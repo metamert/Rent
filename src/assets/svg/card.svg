@@ -1,0 +1,27 @@
+<svg id="pay" xmlns="http://www.w3.org/2000/svg" width="39.939" height="28.534" viewBox="0 0 39.939 28.534">
+  <g id="Group_53" data-name="Group 53" transform="translate(0 0)">
+    <g id="Group_52" data-name="Group 52">
+      <path id="Path_56394" data-name="Path 56394" d="M31.936,55.05H2.316A2.35,2.35,0,0,0,0,57.418V75.634A2.3,2.3,0,0,0,2.316,77.9h1.2V63.042A4.39,4.39,0,0,1,7.93,58.668h26.3V57.418A2.332,2.332,0,0,0,31.936,55.05Z" transform="translate(0 -55.05)" fill="#023047"/>
+    </g>
+  </g>
+  <g id="Group_55" data-name="Group 55" transform="translate(28.265 20.997)">
+    <g id="Group_54" data-name="Group 54" transform="translate(0 0)">
+      <path id="Path_56395" data-name="Path 56395" d="M280.295,258.553a1.657,1.657,0,0,0-2.337.207,1.094,1.094,0,0,1-.155.155,1.036,1.036,0,0,1-1.458-.155,1.665,1.665,0,1,0-1.272,2.729,1.617,1.617,0,0,0,1.282-.6,1.026,1.026,0,0,1,.8-.372,1,1,0,0,1,.8.362,1.437,1.437,0,0,0,.217.217,1.659,1.659,0,0,0,2.13-2.543Z" transform="translate(-273.399 -258.15)" fill="#023047"/>
+    </g>
+  </g>
+  <g id="Group_57" data-name="Group 57" transform="translate(5.583 5.686)">
+    <g id="Group_56" data-name="Group 56" transform="translate(0 0)">
+      <path id="Path_56396" data-name="Path 56396" d="M85.977,110.049H56.347A2.323,2.323,0,0,0,54,112.355v1.52H88.334v-1.52A2.326,2.326,0,0,0,85.977,110.049Z" transform="translate(-54 -110.049)" fill="#023047"/>
+    </g>
+  </g>
+  <g id="Group_59" data-name="Group 59" transform="translate(5.939 11.127)">
+    <g id="Group_58" data-name="Group 58" transform="translate(0 0)">
+      <rect id="Rectangle_241" data-name="Rectangle 241" width="34" height="3" transform="translate(0 0)" fill="#023047"/>
+    </g>
+  </g>
+  <g id="Group_61" data-name="Group 61" transform="translate(5.583 16.335)">
+    <g id="Group_60" data-name="Group 60" transform="translate(0 0)">
+      <path id="Path_56397" data-name="Path 56397" d="M54,213.05v9.832a2.363,2.363,0,0,0,2.347,2.368h29.62a2.378,2.378,0,0,0,2.357-2.368V213.05Zm31.625,8.416a3.741,3.741,0,0,1-5.19,1,3.685,3.685,0,0,1-2.088.641,3.737,3.737,0,0,1,0-7.475,3.685,3.685,0,0,1,2.088.641,3.738,3.738,0,0,1,5.19,5.19Z" transform="translate(-54 -213.05)" fill="#023047"/>
+    </g>
+  </g>
+</svg>

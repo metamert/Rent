@@ -1,0 +1,104 @@
+.infocard {
+  width: 10%;
+  
+}
+
+.h2-responsive{
+  font-size: 12px;
+}
+
+.waveContainer{
+  width: 5vw;
+  
+}
+
+.margin-wave{
+  margin-bottom: 80px;
+}
+
+.p-width{
+  width: 160%;
+}
+.infocard-top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.infocard-top-title {
+  margin-bottom: 15px;
+  font-size: 1.75rem;
+  color: #023047;
+}
+.infocard-top-border {
+  margin-bottom: 15px;
+  width: 50px;
+  border-radius: 999px;
+  border-bottom: 3px solid #0077b6;
+}
+.infocard-top-info {
+  font-size: 0.875rem;
+  color: rgba(2, 48, 71, 0.5);
+}
+.infocard-bottom {
+  display: flex;
+  padding: 0 140px;
+}
+.infocard-bottom-logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.infocard-bottom-logos > img {
+  margin: 0 15px;
+}
+.infocard-bottom-logos-search {
+  padding: 30px;
+  border-radius: 4px;
+  background-color: #0081a7;
+}
+.infocard-bottom-logos-others {
+  padding: 30px;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.infocard-bottom-info {
+  display: flex;
+  padding: 0 140px;
+  justify-content: center;
+}
+.infocard-bottom-info-text {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.logoContainerColor{
+  width: 4vw;
+  height: 4vw;
+  background-color: #0081A7;
+  border-radius: 8px;
+}
+.logoContainer{
+  width: 4vw;
+  height: 4vw;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+@media only screen and (max-width: 600px) {   
+  .p-width{
+    font-size: 6px;
+    width: 120%;
+
+  }
+     
+  .h2-responsive{
+
+    font-size: 12px;
+    
+  }
+  
+    
+  
+  }

@@ -1,0 +1,16 @@
+.slick-next {
+    right: 0px;
+    background-image: url('../../assets/svg/next.svg');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    z-index: 200 !important;
+    color: red !important;
+}
+.slick-prev {
+    right: 0px !important;
+    background-image: url('../../assets/svg/back.svg') !important;
+    background-position: 10px 10px !important;
+    background-repeat: no-repeat !important;
+    z-index: 200 !important;
+    color: red !important;
+}
