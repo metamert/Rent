@@ -7,6 +7,7 @@ import toyota from "../../assets/svg/toyota.svg"
 import bmw from "../../assets/svg/bmw.svg"
 import audi from "../../assets/svg/auid.svg"
 import wolk from "../../assets/svg/wolk.svg"
+import TitleComponent from "../titleComponent"
 import "./.css"
 export default class MultipleItems extends Component {
   render() {
@@ -39,7 +40,15 @@ export default class MultipleItems extends Component {
   
     };
     return (
-      <div className=" center-xs w-100 margin-bottom-3">
+[
+  <div className="containerCenter margin-top-6 margin-bottom-3">
+<TitleComponent
+title="Popüler Araçlarımız"
+p="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+/></div>,
+
+
+      <div className=" center-xs w-100 margin-bottom-3 margin-top-3">
       
         <div className="container-50">
         <Slider  {...settings} >
@@ -57,6 +66,6 @@ export default class MultipleItems extends Component {
         </Slider>
         </div>
       </div>
-    );
+ ] );
   }
 }
