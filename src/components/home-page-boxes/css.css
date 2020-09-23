@@ -34,4 +34,12 @@ position: relative;
         margin-top: 30px;
         
     }
+
+    .rent-box-car{
+        position: absolute;
+      right: -30px;
+        width: 250px;
+        height: 150px;
+    }
+
 }

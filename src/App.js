@@ -18,26 +18,8 @@ function App() {
        <Info></Info>
        <Boxes></Boxes>
        <Slider></Slider>
-      <div class="row">
-        <div class="
-        col-xs-12
-        col-sm-4
-        
-        
-        ">
-           This content will take up 3/12 (or 1/4) of the container 
-        </div>
-        <div class="col-xs-12
-        col-sm-4
-      ">
-         This content will take up 3/12 (or 1/4) of the container 
-        </div>
-        <div class="col-xs-12
-        col-sm-4
-        ">
-          This content will take up 6/12 (or 1/2) of the container 
-        </div>
-      </div>
+   
+       
     
     </div>
   );
